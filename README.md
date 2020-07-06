@@ -1,4 +1,6 @@
-DEPRECATED!!! use https://github.com/Puship/cordova-puship-start instead
+# DEPRECATED!!! use https://github.com/Puship/cordova-puship-start instead
+
+
 
 # Hello World PhoneGap Application with Push Notification support from Puship.com
 
